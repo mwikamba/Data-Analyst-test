@@ -1,0 +1,7 @@
+name,age,height,location,water_bill,month,income,num_orders
+Peter,42,167,A,140,May,1300,255
+Stella,33,160,A,91,May,955,188
+Peter,42,167,A,140,June,1320,264
+Stella,33,160,A,91,June,1050,209
+Peter,42,167,A,140,July,1350,270
+Stella,33,160,A,91,July,1000,199

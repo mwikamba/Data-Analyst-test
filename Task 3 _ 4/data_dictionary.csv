@@ -1,0 +1,9 @@
+﻿variable,human_name
+name,Name
+age,Age
+height,Height
+sex,Sex
+location,Location
+income,Income
+num_orders,Number of orders
+water_bill,Water bill (monthly)
